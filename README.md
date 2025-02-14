@@ -11,9 +11,3 @@ Features
 User Dashboard: View gas usage statistics.
 
 Billing Management: Track and pay gas bills.
-
-Admin Panel: Manage users and utility records.
-
-Authentication System: Secure login/logout.
-
-Mobile Responsive Design: Works on both desktop and mobile.
